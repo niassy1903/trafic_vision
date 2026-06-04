@@ -1,0 +1,6 @@
+{
+  "name": "Suivi des Infractions Feu Rouge",
+  "description": "Plateforme de détection et de supervision en temps réel des infractions routières de franchissement de feu rouge, connectée à un simulateur de capteurs physiques et de signalisation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
